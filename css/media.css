@@ -66,6 +66,10 @@
     .menu_icon{
         justify-self: flex-end;
     }
+    .row_grid_food_products{
+        grid-template-columns:repeat(2,1fr) ;
+        justify-content: center;
+    }
 }
 
 
@@ -122,6 +126,14 @@
 @media (min-width:677px){
     .order_food_mobile{
         display: none;
+    }
+
+}
+
+@media (max-width:500px){
+    .row_grid_food_products{
+        grid-template-columns:repeat(1 ,1fr) ;
+        justify-content: center;
     }
 
 }
