@@ -1,3 +1,4 @@
-I continued this responsive Food-Delivery project today and on the second day of the #100daysofcode challenge I was able to finish part of the main part of this site with focusing on the css grid.
+I continued this responsive Food-Delivery project today and on the fourth day of the #100daysofcode challenge I was able to finish all part of the this website with focusing on the css grid.
 
-![1](https://github.com/this-4mirho3ein/Food-Delivery/assets/165039206/47b13dc1-3060-473d-8e7e-eb43837070d9)
+![22](https://github.com/this-4mirho3ein/Food-Delivery/assets/165039206/ccb25e97-87f4-4af4-820a-37e53fa5f53e)
+
